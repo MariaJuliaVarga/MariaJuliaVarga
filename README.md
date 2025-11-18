@@ -5,10 +5,9 @@
 <br>
 
 <p align="center">
-    * Olá 👋 Eu sou **Maria Julia**, **Estudante de Sistemas de Informação** na **UNOESTE** (Presidente Prudente).
+    * 👋 Olá! Eu sou **Maria Julia**, **Estudante de Sistemas de Informação** na **UNOESTE** (Presidente Prudente).
     * Focada em construir e aprender, transformando ideias em código funcional.
-    * Busco oportunidades na área de desenvolvimento, especialmente com foco nas tecnologias que aprendo.
-    * Me contrate em : majuvargasita@gmail.com
+    * Buscando constantemente novos desafios e oportunidades de crescimento.
 </p>
 
 <br>
@@ -26,6 +25,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
 </div>
 
+<br>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaVarga&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+<br>
+
 <div align="center">
     <a href="mailto:majuvargasita@gmail.com" target="_blank">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
@@ -37,7 +44,6 @@
 
 <br>
 
----
 <p align="center">
   Feito com ❤️ e código.
 </p>
