@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>👋 Olá! Eu sou Maria Julia</h1>
+    <h1>Desenvolvedora em Formação | Explorando o mundo da tecnologia</h1>
 </div>
 
 
