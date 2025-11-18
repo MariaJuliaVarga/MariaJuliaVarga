@@ -26,15 +26,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
 </div>
 
-<br>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaJuliaVarga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaVarga&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
-<br>
-
 <div align="center">
     <a href="mailto:majuvargasita@gmail.com" target="_blank">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
