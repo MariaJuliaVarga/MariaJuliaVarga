@@ -27,8 +27,6 @@ Apaixonada por aprender, curiosa por natureza e sempre em busca de novas possibi
 
 💡 Adoro experimentar ideias e encontrar soluções.
 
-🎨 Tenho interesse em criatividade e desenvolvimento.
-
 ✨ Sempre há algo novo para descobrir!
 
 ---
